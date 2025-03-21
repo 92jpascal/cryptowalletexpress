@@ -1,0 +1,16 @@
+/home/sampleApps/kraken-backend-crypto-engineer/services/target/debug/deps/libsoketto-b11acadb3e407955.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/base.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/connection.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/data.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/extension.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/server.rs
+
+/home/sampleApps/kraken-backend-crypto-engineer/services/target/debug/deps/libsoketto-b11acadb3e407955.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/base.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/connection.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/data.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/extension.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/server.rs
+
+/home/sampleApps/kraken-backend-crypto-engineer/services/target/debug/deps/soketto-b11acadb3e407955.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/base.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/connection.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/data.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/extension.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/server.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/base.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/connection.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/data.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/extension.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/client.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soketto-0.7.1/src/handshake/server.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.1
