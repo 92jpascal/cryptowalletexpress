@@ -1,0 +1,15 @@
+[package]
+name = "crypto_wallet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = [
+    "services",
+    "api",
+    "wallets",
+    "utils",
+    "db"
+]
